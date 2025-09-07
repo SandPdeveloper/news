@@ -89,7 +89,18 @@
               <img class="profile-picture" src="channel-pictures/Im1-01-01.png">
             </div>
             <div class="video-info">
-              <p class="video-title">
+              <p class="video-title" >
+                 <div id="text-container"></div>
+
+    <script>
+        // Fetch the text file and display its content
+        fetch('example.txt')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('text-container').innerText = data;
+            })
+            .catch(error => console.error('Error fetching the text file:', error));
+    </script>
                 Put Your Headline Here!
               </p>
               <p class="video-author">
