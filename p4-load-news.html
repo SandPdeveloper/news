@@ -31,8 +31,21 @@
 
 
   <body>
-    <div id="text-container"></div>
-     <script>
+   <!--Item 1-->
+        <div class="video-preview">
+          <div class="thumbnail-row">
+            <img class="thumbnail" src="thumbnail-1.webp">
+            <div class="video-time">NEWS 1</div>
+          </div>
+          <div class="video-info-grid">
+            <div class="channel-picture">
+              <img class="profile-picture" src="channel-pictures/Im1-01-01.png">
+            </div>
+            <div class="video-info">
+              <p class="video-title" >
+                 <div id="text-container"></div>
+
+    <script>
         // Fetch the text file and display its content
         fetch('headline1.txt')
             .then(response => response.text())
@@ -40,7 +53,19 @@
                 document.getElementById('text-container').innerText = data;
             })
             .catch(error => console.error('Error fetching the text file:', error));
-    </script>   
+    </script>
+                Put Your Headline Here!
+              </p>
+              <p class="video-author">
+                Marques Brownlee
+              </p>
+              <p class="video-stats">
+                3.4M views &#183; 6 months ago
+              </p>
+            </div>
+          </div>
+        </div>
+  
   </body>
 
 </html>
