@@ -1,9 +1,9 @@
-<h1>Headline 1 inward from headline.txt file</h1>
+Headline 1 inward from headline.txt file
 
-<textarea>A teenage girl is living in fear and her family is considering moving interstate after her name was linked to the machete murders of two young boys in Melbourne’s west last month.
+A teenage girl is living in fear and her family is considering moving interstate after her name was linked to the machete murders of two young boys in Melbourne’s west last month.
 The 14-year-old was asleep inside her home in Cobblebank on Sunday morning around 4am when three people armed with machetes tried to smash their way into the property.
 They smashed up two front windows of the family home and trashed the car in the driveway before being confronted and running from the scene.
 Her father, Freddy Lecomte, says he believes it was an act of retaliation over the murders of two young boys who were slashed to death a few hundred metres away earlier this month.
 Dau Akueng, 15, and Chol Achiek, 12, were killed in a machete attack on September 7 while walking home from a nearby basketball stadium.
 The violence has shocked police and devastated the local community. There have yet to be any arrests despite CCTV footage showing three youths attacking Chol as he lay helpless on the ground.
-</textarea>
+
