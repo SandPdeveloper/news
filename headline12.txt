@@ -1,1 +1,1 @@
-This is Headline 1 inward
+Headline 12 inward from headline12.txt file
